@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-01 BZR unknown)-product   date = 5/22/2015 23:26:02
+
+BeginCmp
+TimeStamp = /55602330;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+BeginCmp
+TimeStamp = /556023E2;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602176;
+Reference = J1;
+ValeurCmp = USB_A;
+IdModule  = Jason_Libraries:USB_A_Female_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /556022B0;
+Reference = J2;
+ValeurCmp = USB_A;
+IdModule  = Jason_Libraries:USB_A_Male_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602A26;
+Reference = J3;
+ValeurCmp = CONN_01X04;
+IdModule  = Jason_Libraries:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602401;
+Reference = R1;
+ValeurCmp = 0R;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+BeginCmp
+TimeStamp = /5560243F;
+Reference = R2;
+ValeurCmp = 0R;
+IdModule  = Jason_Libraries:0603_np;
+EndCmp
+
+EndListe
